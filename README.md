@@ -1,6 +1,8 @@
 # 🧩 Sudoku Java
 
-> 🎓 Projeto desenvolvido durante o **Bootcamp Globant — Java & Spring Boot AI Developer** na plataforma [DIO](https://www.dio.me)
+> 🎓 Projeto desenvolvido para os seguintes Bootcamps na plataforma [DIO](https://www.dio.me):  
+> - **Globant Java & Spring Boot AI Developer**  
+> - **Almaviva Solutions Back-end com Java & QA** 
 >
 > 📌 Desafio: **Criando um Jogo do Sudoku em Java**
 
